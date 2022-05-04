@@ -4,7 +4,7 @@ Hello! I'm so glad you are here! This file contains all of my algorithms that I 
 This file directory contains codes for:
 * Special Matrix
 * FalsePosition
-* Bisection
+* LU Factorization
 * Simpsons 1/3
 * Linear Regression
 
