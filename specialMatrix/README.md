@@ -8,7 +8,7 @@ m-number of columns
 ## Outputs
 A- the resulting special matrix.
 
-## Special Notes about Function
+## Special Notes About Function
 This function will return an error if the user does not input two values
 
 This function will start with a matrix of all zeros.
